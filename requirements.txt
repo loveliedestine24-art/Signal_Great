@@ -1,6 +1,5 @@
 streamlit
 yfinance
 pandas
-pandas-ta==0.2.45b
+pandas_ta
 numpy
-
